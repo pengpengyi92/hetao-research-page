@@ -10,6 +10,14 @@ Open:
 projects/hkuds-pitch-kit/website/index.html
 ```
 
+## Public Link
+
+Use this URL for the Hetao / Shenyuan Yingcai application link field:
+
+```text
+https://pengpengyi92.github.io/hetao-research-page/
+```
+
 ## Before Sending Publicly
 
 Replace or confirm:
